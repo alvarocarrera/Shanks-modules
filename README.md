@@ -1,0 +1,1 @@
+This repository is to configure all modules available in Shanks. When they are ready to use, they will be moved to a public repository in gsi-upm account.
